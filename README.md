@@ -36,7 +36,7 @@ I'm diligent in handling tasks entrusted to me, more so than anyone else...
 <br>
 
 <img src="https://img.shields.io/badge/C-F5F5DC?style=fot-the-badge&logo=C&logoColor=A8B9CC">
-<img src="https://img.shields.io/badge/C]Sharp-F5F5DC?style=fot-the-badge&logo=C Sharp&logoColor=239120">
+<img src="https://img.shields.io/badge/CSharp-F5F5DC?style=fot-the-badge&logo=C Sharp&logoColor=239120">
 
 <br>
 
