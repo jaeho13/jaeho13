@@ -60,4 +60,14 @@ I'm diligent in handling tasks entrusted to me, more so than anyone else...
 <img src="https://img.shields.io/badge/Notion-87CEFA?style=fot-the-badge&logo=Notion&logoColor=000000">
 <img src="https://img.shields.io/badge/Slack-87CEFA?style=fot-the-badge&logo=Slack&logoColor=4A154B">
 <img src="https://img.shields.io/badge/Discord-87CEFA?style=fot-the-badge&logo=Discord&logoColor=333333">
+
 </div>
+
+<hr>
+
+ <div align="center">
+  
+![jaeho13's github stats](https://github-readme-stats.vercel.app/api?username=jaeho13)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeho13&layout=compact)
+  
+  </div>
