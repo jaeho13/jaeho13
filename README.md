@@ -50,9 +50,9 @@ I'm diligent in handling tasks entrusted to me, more so than anyone else...
 <img src="https://img.shields.io/badge/Amazon EC2-E0FFFF?style=fot-the-badge&logo=Amazon EC2&logoColor=FF9900">
 <img src="https://img.shields.io/badge/Linux-E0FFFF?style=fot-the-badge&logo=Linux&logoColor=FCC624">
 
-<br>
+<!-- <br>
 
-<img src="https://img.shields.io/badge/Unity-646464?style=fot-the-badge&logo=Unity&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Unity-646464?style=fot-the-badge&logo=Unity&logoColor=FFFFFF"> -->
 
 <br>
 
