@@ -26,6 +26,7 @@ I'm diligent in handling tasks entrusted to me, more so than anyone else...
 
 <hr>
 
+<hr>
 <div align="center">
 <b>⚡ TECH STACK ⚡</b> <br>
 
