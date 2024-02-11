@@ -65,9 +65,9 @@ I'm diligent in handling tasks entrusted to me, more so than anyone else...
 
 <hr>
 
- <div align="center">
+<div align="center">
   
 ![jaeho13's github stats](https://github-readme-stats.vercel.app/api?username=jaeho13)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeho13&layout=compact)
   
-  </div>
+</div>
