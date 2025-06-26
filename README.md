@@ -43,7 +43,6 @@ I'm diligent in handling tasks entrusted to me, more so than anyone else...
 <br />
 <img src="https://img.shields.io/badge/Vercel-E0FFFF?style=fot-the-badge&logo=vercel&logoColor=black">
 <img src="https://img.shields.io/badge/Netlify-E0FFFF?style=fot-the-badge&logo=Netlify&logoColor=#00C7B7">
-<img src="https://img.shields.io/badge/Linux-E0FFFF?style=fot-the-badge&logo=Linux&logoColor=FCC624">
 <br />
 <img src="https://img.shields.io/badge/Git-87CEFA?style=fot-the-badge&logo=git&logoColor=F05032">
 <img src="https://img.shields.io/badge/GitHub-87CEFA?style=fot-the-badge&logo=GitHub&logoColor=181717">
